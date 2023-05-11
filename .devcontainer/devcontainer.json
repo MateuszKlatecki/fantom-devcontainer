@@ -1,0 +1,13 @@
+
+{
+	"name": "Fantom",
+	"dockerFile": "Dockerfile",
+
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"amackayfoss.fantom-syntax-highlighting"
+			]
+		}
+	}
+}
